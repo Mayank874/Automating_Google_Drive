@@ -1,0 +1,1 @@
+"C:/Users/Mayank/AppData/Local/Programs/Python/Python310/python.exe" "C:/Users/Mayank/OneDrive - Amity University/Desktop/Google Drive Application/download.py"         
